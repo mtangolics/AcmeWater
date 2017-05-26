@@ -1,0 +1,3 @@
+Dear {name},
+Thank you for using Acme Water™ for your address at {address} {city}, {state}  {zip}. Your amount due for the month of {bill_month} is ${amount_due}.
+Warm Regards, Acme Water™
