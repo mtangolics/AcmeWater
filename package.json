@@ -1,0 +1,24 @@
+{
+  "name": "acmewater",
+  "version": "1.0.0",
+  "description": "Billing system",
+  "main": "main.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtangolics/AcmeWater.git"
+  },
+  "author": "Mike Tangolics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtangolics/AcmeWater/issues"
+  },
+  "homepage": "https://github.com/mtangolics/AcmeWater#readme"
+}
