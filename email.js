@@ -1,7 +1,6 @@
 'use strict';
 
-var promise = require('bluebird');
-var fs = promise.promisifyAll(require('fs'));
+var fs = require('fs');
 
 var transmit = function(addr,text) {
   var deliverySuccess = true;
